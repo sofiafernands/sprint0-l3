@@ -11,7 +11,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if b == 0:
-        raise ValueError("No es posible dividir por cero")
+        raise ValueError("No es posible dividir por Cero..prueba con numeros enteros")
     return a / b
 
 if __name__ == "__main__":
